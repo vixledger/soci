@@ -1,12 +1,12 @@
 # SOCI - The C++ Database Access Library
 
-[![GitHub release](https://img.shields.io/github/tag/SOCI/soci.svg)](https://github.com/SOCI/soci/releases/tag/3.2.3)
-[![GitHub commits](https://img.shields.io/github/commits-since/SOCI/soci/3.2.3.svg)](https://github.com/SOCI/soci/tree/master)
+[![GitHub release](https://img.shields.io/github/tag/vixledger/soci.svg)](https://github.com/vixledger/soci/releases/tag/3.2.3)
+[![GitHub commits](https://img.shields.io/github/commits-since/vixledger/soci/3.2.3.svg)](https://github.com/vixledger/soci/tree/master)
 
 [![Website](https://img.shields.io/website-up-down-green-red/http/shields.io.svg?label=soci.sourceforge.net)](http://soci.sourceforge.net)
 [![SourceForge](https://img.shields.io/sourceforge/dm/soci.svg)](https://sourceforge.net/projects/soci/files/)
 
-[![Gitter](https://img.shields.io/gitter/room/SOCI/soci.svg)](https://gitter.im/SOCI/soci)
+[![Gitter](https://img.shields.io/gitter/room/vixledger/soci.svg)](https://gitter.im/vixledger/soci)
 [![Mailing Lists](https://img.shields.io/badge/mailing--lists-ok-yellowgreen.svg)](https://sourceforge.net/p/soci/mailman/)
 [![StackExchange](https://img.shields.io/stackexchange/stackoverflow/t/soci.svg)](https://stackoverflow.com/questions/tagged/soci)
 
@@ -14,8 +14,8 @@
 
 | Branches    | Travis-CI | AppVeyor-CI | Coverity Scan  | Documentation |
 |-------------|-----------|-------------|----------------|---------------|
-| master      | [![Build Status](https://travis-ci.org/SOCI/soci.svg?branch=master)](https://travis-ci.org/SOCI/soci) | [![Build status](https://ci.appveyor.com/api/projects/status/dtp5mvbeyu9aqupr/branch/master?svg=true)](https://ci.appveyor.com/project/SOCI/soci/branch/master) |  [![Coverage](https://scan.coverity.com/projects/6581/badge.svg)](https://scan.coverity.com/projects/soci-soci) | [![Docs Status](https://circleci.com/gh/SOCI/soci.svg?style=shield&circle-token=5d31c692ed5fcffa5c5fc6b7fe2257b34d78f3c9)](https://circleci.com/gh/SOCI/soci) |
-| release/3.2 | [![Build Status](https://travis-ci.org/SOCI/soci.svg?branch=release%2F3.2)](https://travis-ci.org/SOCI/soci) | | | |
+| master      | [![Build Status](https://travis-ci.org/vixledger/soci.svg?branch=master)](https://travis-ci.org/vixledger/soci) | [![Build status](https://ci.appveyor.com/api/projects/status/dtp5mvbeyu9aqupr/branch/master?svg=true)](https://ci.appveyor.com/project/vixledger/soci/branch/master) |  [![Coverage](https://scan.coverity.com/projects/6581/badge.svg)](https://scan.coverity.com/projects/soci-soci) | [![Docs Status](https://circleci.com/gh/vixledger/soci.svg?style=shield&circle-token=5d31c692ed5fcffa5c5fc6b7fe2257b34d78f3c9)](https://circleci.com/gh/vixledger/soci) |
+| release/3.2 | [![Build Status](https://travis-ci.org/vixledger/soci.svg?branch=release%2F3.2)](https://travis-ci.org/vixledger/soci) | | | |
 
 ## History
 
@@ -56,4 +56,4 @@ Backend specific client libraries for:
 See documentation at [soci.sourceforge.net](http://soci.sourceforge.net) for details
 
 [BSL](http://www.boost.org/LICENSE_1_0.txt) &copy;
-[Maciej Sobczak](http://github.com/msobczak) and [contributors](https://github.com/SOCI/soci/graphs/contributors).
+[Maciej Sobczak](http://github.com/msobczak) and [contributors](https://github.com/vixledger/soci/graphs/contributors).
